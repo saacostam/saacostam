@@ -8,11 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/73088662?v=4"  />
-
-###
-
-<ul align="left">
+<ul>
   <li>
     🙋‍♂️ Portfolio - <a href="https://saacostam.github.io/portfolio/#/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/portfolio" target="_blank">Repo</a>
   </li>
