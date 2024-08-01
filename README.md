@@ -4,14 +4,13 @@
 
 <h2 align="center">I'm Santiago Acosta Meza, a full-stack software engineer 💻</h2>
 
-<h2 align="left">📌 Projects</h2>
+<h3 align="center">🎯 Check my portfolio here: <a href="https://saacostam.github.io/" target="_blank">saacostam.github.io</a>!</h3>
+
+<h2 align="left">📌 Favorite Projects</h2>
 
 ###
 
 <ul>
-  <li>
-    🙋‍♂️ Portfolio - <a href="https://saacostam.github.io/portfolio/#/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/portfolio" target="_blank">Repo</a>
-  </li>
   <li>
     🎵 Guitar Chords Visualizer - <a href="https://saacostam.github.io/fuzzy-noteable/#/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/fuzzy-noteable" target="_blank">Repo</a>
   </li>
@@ -23,6 +22,9 @@
   </li>
   <li>
     🎹 Music Creation Programming Language - <a href="https://saacostam.github.io/music-dsl/#/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/music-dsl" target="_blank">Repo</a>
+  </li>
+  <li>
+    🧙‍♂️ Portfolio - <a href="https://github.com/saacostam/saacostam.github.io/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/saacostam.github.io" target="_blank">Repo</a>
   </li>
 </ul>
 
