@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">I'm Santiago Acosta Meza, a full-stack software engineer 💻</h2>
+<h2 align="center">I'm Santiago Acosta, a full-stack software engineer 💻</h2>
 
 <h3 align="center">🎯 Check my portfolio here: <a href="https://saacostam.github.io/" target="_blank">saacostam.github.io</a>!</h3>
 
