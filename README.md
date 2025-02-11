@@ -24,6 +24,8 @@
 
 <br clear="both">
 
+[![ViewCount](https://views.whatilearened.today/views/github/saacostam/ismlhbb.svg?cache=remove)](#)
+
 <h2 align="left">Technologies I enjoy :D</h2>
 
 <div align="left">
