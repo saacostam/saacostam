@@ -1,7 +1,5 @@
 <h3>🎯 Check my portfolio here: <a href="https://saacostam.github.io/" target="_blank">saacostam.github.io</a>!</h3>
 
-[![ViewCount](https://views.whatilearened.today/views/github/saacostam/ismlhbb.svg?cache=remove)](#)
-
 <h2 align="left">📌 Pinned Projects</h2>
 
 <ul>
