@@ -26,7 +26,9 @@
 ---
 
 <h4 align="left">🚧 Current Project</h4>
-<strong>3D Tower Defense</strong> – A strategy game where players defend against waves of enemies by strategically placing towers on a 3D map. (<a href="https://saacostam.github.io/3d-tower-defense/" target="_blank">Demo</a>, <a href="https://github.com/saacostam/3d-tower-defense" target="_blank">Repo</a>)
+<strong>3D Tower Defense</strong> – A strategy game where players defend against waves of enemies by strategically placing towers on a 3D map. 
+
+(<a href="https://saacostam.github.io/3d-tower-defense/" target="_blank">Demo</a>, <a href="https://github.com/saacostam/3d-tower-defense" target="_blank">Repo</a>)
 
 ---
 
