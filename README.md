@@ -16,11 +16,19 @@
     🎹 Music Creation Programming Language - <a href="https://saacostam.github.io/music-dsl/#/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/music-dsl" target="_blank">Repo</a>
   </li>
   <li>
-    🗼 3D Tower Defense [In Progress] - <a href="https://saacostam.github.io/3d-tower-defense/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/3d-tower-defense" target="_blank">Repo</a>
+    🧙‍♂️ Portfolio - <a href="https://saacostam.github.io/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/saacostam.github.io" target="_blank">Repo</a>
   </li>
   <li>
-    🧙‍♂️ Portfolio - <a href="https://saacostam.github.io/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/saacostam.github.io" target="_blank">Repo</a>
+    🗼 3D Tower Defense [In Progress] - <a href="https://saacostam.github.io/3d-tower-defense/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/3d-tower-defense" target="_blank">Repo</a>
   </li>
 </ul>
 
-<br clear="both">
+---
+
+<h4 align="left">🚧 Current Project</h4>
+<strong>3D Tower Defense</strong> – A strategy game where players defend against waves of enemies by strategically placing towers on a 3D map. (<a href="https://saacostam.github.io/3d-tower-defense/" target="_blank">Demo</a>, <a href="https://github.com/saacostam/3d-tower-defense" target="_blank">Repo</a>)
+
+---
+
+<h4 align="left">📚 Currently Reading</h4>
+<strong>Understanding ETL by O’Reilly</strong> – A technical guide on building modern data pipelines with a focus on real-time ingestion, quality, and orchestration.
