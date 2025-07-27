@@ -22,5 +22,3 @@
     🗼 3D Tower Defense - <a href="https://saacostam.github.io/3d-tower-defense/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/3d-tower-defense" target="_blank">Repo</a>
   </li>
 </ul>
-
----
