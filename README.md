@@ -1,6 +1,6 @@
-<h1 align="left">📌 Pinned Projects</h1>
+<h3>🎯 Check my portfolio here: <a href="https://saacostam.github.io/" target="_blank">saacostam.github.io</a>!</h3>
 
-<h4>🎯 Check my portfolio here: <a href="https://saacostam.github.io/" target="_blank">saacostam.github.io</a>!</h4>
+<h3 align="left">📌 Pinned Projects</h3>
 
 <ul>
   <li>
