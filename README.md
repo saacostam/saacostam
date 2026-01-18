@@ -24,4 +24,7 @@
   <li>
     🎧 Lalu - Spotify Clone - <a href="https://saacostam.github.io/lalu/#/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/lalu" target="_blank">Repo</a>
   </li>
+  <li>
+    ❌⭕ Tic Tac Toe - <a href="https://github.com/saacostam/tic-tac-toe" target="_blank">Repo</a>
+  </li>
 </ul>
