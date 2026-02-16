@@ -22,6 +22,9 @@
     🗼 3D Tower Defense - <a href="https://saacostam.github.io/3d-tower-defense/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/3d-tower-defense" target="_blank">Repo</a>
   </li>
   <li>
+    🎧 Sonarah: Spotify Playlist Creator - <a href="https://saacostam.github.io/sonarah" target="_blank">Demo</a> - <a href="https://github.com/saacostam/sonarah" target="_blank">Repo</a>
+  </li>
+  <li>
     🎧 Lalu - Spotify Clone - <a href="https://saacostam.github.io/lalu/#/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/lalu" target="_blank">Repo</a>
   </li>
   <li>
