@@ -29,7 +29,7 @@ Portfolio: https://saacostam.github.io/
 ## Backend & Infrastructure
 
 - **saacostam API** — <a href="https://github.com/saacostam/saacostam-api">Repo</a>  
-  Central backend containing shared API services and infrastructure used across multiple projects.  
+  🤖 Central backend containing shared API services and infrastructure used across multiple projects.  
   Node.js + TypeScript based, focused on reusable backend modules, authentication patterns, and service architecture.  
   No public demo (infrastructure-only repository).
 
