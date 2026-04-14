@@ -24,9 +24,6 @@ Portfolio: https://saacostam.github.io/
 - **Tic Tac Toe (Real-time Multiplayer Web App)** — <a href="https://saacostam.github.io/tic-tac-toe">Demo</a> · <a href="https://github.com/saacostam/tic-tac-toe">Repo</a>  
   ❌ Multiplayer web app with synchronized game state and session-based interactions.
 
-- **Lalu (Spotify Clone)** — <a href="https://saacostam.github.io/lalu/#/">Demo</a> · <a href="https://github.com/saacostam/lalu">Repo</a>  
-  🎧 Music streaming UI (no BE integration) focusing on playback state, auth flows, and media interactions.
-
 ---
 
 ## Interactive & Music Systems
@@ -46,3 +43,10 @@ Portfolio: https://saacostam.github.io/
 
 - **3D Tower Defense** — <a href="https://saacostam.github.io/3d-tower-defense/">Demo</a> · <a href="https://github.com/saacostam/3d-tower-defense">Repo</a>  
   🗼 3D interactive strategy prototype with object interactions and gameplay logic.
+
+---
+
+### Others
+
+- **Lalu (Spotify Clone)** — <a href="https://saacostam.github.io/lalu/#/">Demo</a> · <a href="https://github.com/saacostam/lalu">Repo</a>  
+  🎧 Music streaming UI (no BE integration) focusing on playback state, auth flows, and media interactions.
