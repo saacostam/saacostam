@@ -1,7 +1,7 @@
 # saacostam - Santiago Acosta  
 ## Full Stack Software Engineer (TypeScript)
 
-Focused on building web applications, interactive interfaces, and music-driven tools.  
+Focused on building clean, maintainable, testable web applications, interactive interfaces, and music-driven tools.  
 Primary stack: TypeScript, full-stack JavaScript ecosystems.
 
 Web Applications · Interactive Systems · Music Tools
