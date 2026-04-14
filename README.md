@@ -25,7 +25,7 @@ Portfolio: https://saacostam.github.io/
   ❌ Multiplayer web app with synchronized game state and session-based interactions.
 
 - **Lalu (Spotify Clone)** — <a href="https://saacostam.github.io/lalu/#/">Demo</a> · <a href="https://github.com/saacostam/lalu">Repo</a>  
-  🎧 Music streaming UI focusing on playback state, auth flows, and media interactions.
+  🎧 Music streaming UI (no BE integration) focusing on playback state, auth flows, and media interactions.
 
 ---
 
