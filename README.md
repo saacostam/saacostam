@@ -26,6 +26,15 @@ Portfolio: https://saacostam.github.io/
 
 ---
 
+## Backend & Infrastructure
+
+- **saacostam API** — <a href="https://github.com/saacostam/saacostam-api">Repo</a>  
+  Central backend containing shared API services and infrastructure used across multiple projects.  
+  Node.js + TypeScript based, focused on reusable backend modules, authentication patterns, and service architecture.  
+  No public demo (infrastructure-only repository).
+
+---
+
 ## Interactive & Music Systems
 
 - **Guitar Chords Visualizer** — <a href="https://saacostam.github.io/fuzzy-noteable/#/">Demo</a> · <a href="https://github.com/saacostam/fuzzy-noteable">Repo</a>  
