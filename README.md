@@ -16,6 +16,9 @@
     🎧 Sonarah: Spotify Playlist Creator - <a href="https://saacostam.github.io/sonarah" target="_blank">Demo</a> - <a href="https://github.com/saacostam/sonarah" target="_blank">Repo</a>
   </li>
   <li>
+    ❌ Tic Tac Toe ⭕ - <a href="https://saacostam.github.io/tic-tac-toe" target="_blank">Demo</a> - <a href="https://github.com/saacostam/tic-tac-toe" target="_blank">Repo</a>
+  </li>
+  <li>
     🎹 Music Creation Programming Language - <a href="https://saacostam.github.io/music-dsl/#/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/music-dsl" target="_blank">Repo</a>
   </li>
   <li>
@@ -26,8 +29,5 @@
   </li>
   <li>
     🎧 Lalu - Spotify Clone - <a href="https://saacostam.github.io/lalu/#/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/lalu" target="_blank">Repo</a>
-  </li>
-  <li>
-    ❌⭕ Tic Tac Toe - <a href="https://github.com/saacostam/tic-tac-toe" target="_blank">Repo</a>
   </li>
 </ul>
