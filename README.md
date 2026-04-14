@@ -1,33 +1,47 @@
-<h3>🎯 Check my portfolio here: <a href="https://saacostam.github.io/" target="_blank">saacostam.github.io</a>!</h3>
+## Full Stack Software Engineer (TypeScript)
 
-<h3 align="left">📌 Pinned Projects</h3>
+Focused on building web applications, interactive interfaces, and music-driven tools.  
+Primary stack: TypeScript, full-stack JavaScript ecosystems.
 
-<ul>
-  <li>
-    🧙‍♂️ Portfolio - <a href="https://saacostam.github.io/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/saacostam.github.io" target="_blank">Repo</a>
-  </li>
-  <li>
-    🏠 Home Resource Manager - <a href="https://saacostam.github.io/home-resource-manager" target="_blank">Demo</a> - <a href="https://github.com/saacostam/home-resource-manager" target="_blank">Repo</a>
-  </li>
-  <li>
-    🎵 Guitar Chords Visualizer - <a href="https://saacostam.github.io/fuzzy-noteable/#/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/fuzzy-noteable" target="_blank">Repo</a>
-  </li>
-  <li>
-    🎧 Sonarah: Spotify Playlist Creator - <a href="https://saacostam.github.io/sonarah" target="_blank">Demo</a> - <a href="https://github.com/saacostam/sonarah" target="_blank">Repo</a>
-  </li>
-  <li>
-    ❌ Tic Tac Toe ⭕ - <a href="https://saacostam.github.io/tic-tac-toe" target="_blank">Demo</a> - <a href="https://github.com/saacostam/tic-tac-toe" target="_blank">Repo</a>
-  </li>
-  <li>
-    🎹 Music Creation Programming Language - <a href="https://saacostam.github.io/music-dsl/#/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/music-dsl" target="_blank">Repo</a>
-  </li>
-  <li>
-    🐓 3D Crossy Road Clone - <a href="https://saacostam.github.io/3d-crossy-road/#/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/3d-crossy-road" target="_blank">Repo</a>
-  </li>
-  <li>
-    🗼 3D Tower Defense - <a href="https://saacostam.github.io/3d-tower-defense/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/3d-tower-defense" target="_blank">Repo</a>
-  </li>
-  <li>
-    🎧 Lalu - Spotify Clone - <a href="https://saacostam.github.io/lalu/#/" target="_blank">Demo</a> - <a href="https://github.com/saacostam/lalu" target="_blank">Repo</a>
-  </li>
-</ul>
+Web Applications · Interactive Systems · Music Tools
+
+Portfolio: https://saacostam.github.io/
+
+---
+
+## Core Web Applications
+
+- **Portfolio** — <a href="https://saacostam.github.io/">Demo</a> · <a href="https://github.com/saacostam/saacostam.github.io">Repo</a>  
+  🧙‍♂️ Personal portfolio showcasing interactive web applications and experiments.
+
+- **Home Resource Manager** — <a href="https://saacostam.github.io/home-resource-manager">Demo</a> · <a href="https://github.com/saacostam/home-resource-manager">Repo</a>  
+  🏠 Full-stack web app for structured resource tracking and persistent state management.
+
+- **Sonarah (Spotify Playlist Creator)** — <a href="https://saacostam.github.io/sonarah">Demo</a> · <a href="https://github.com/saacostam/sonarah">Repo</a>  
+  🎵 Spotify-integrated tool for generating and managing playlists via API workflows.
+
+- **Tic Tac Toe (Real-time Multiplayer Web App)** — <a href="https://saacostam.github.io/tic-tac-toe">Demo</a> · <a href="https://github.com/saacostam/tic-tac-toe">Repo</a>  
+  ❌ Multiplayer web app with synchronized game state and session-based interactions.
+
+- **Lalu (Spotify Clone)** — <a href="https://saacostam.github.io/lalu/#/">Demo</a> · <a href="https://github.com/saacostam/lalu">Repo</a>  
+  🎧 Music streaming UI focusing on playback state, auth flows, and media interactions.
+
+---
+
+## Interactive & Music Systems
+
+- **Guitar Chords Visualizer** — <a href="https://saacostam.github.io/fuzzy-noteable/#/">Demo</a> · <a href="https://github.com/saacostam/fuzzy-noteable">Repo</a>  
+  🎸 Interactive visualization of guitar chord structures and note mappings.
+
+- **Music DSL (Programming Language for Music)** — <a href="https://saacostam.github.io/music-dsl/#/">Demo</a> · <a href="https://github.com/saacostam/music-dsl">Repo</a>  
+  🎹 Domain-specific language for programmatic music composition with parsing and execution logic.
+
+---
+
+## 3D / Games
+
+- **3D Crossy Road Clone** — <a href="https://saacostam.github.io/3d-crossy-road/#/">Demo</a> · <a href="https://github.com/saacostam/3d-crossy-road">Repo</a>  
+  🐓 3D interactive prototype exploring movement systems and scene management.
+
+- **3D Tower Defense** — <a href="https://saacostam.github.io/3d-tower-defense/">Demo</a> · <a href="https://github.com/saacostam/3d-tower-defense">Repo</a>  
+  🗼 3D interactive strategy prototype with object interactions and gameplay logic.
