@@ -12,9 +12,6 @@ Portfolio: https://saacostam.github.io/
 
 ## Core Web Applications
 
-- **Portfolio** — <a href="https://saacostam.github.io/">Demo</a> · <a href="https://github.com/saacostam/saacostam.github.io">Repo</a>  
-  🧙‍♂️ Personal portfolio showcasing interactive web applications and experiments.
-
 - **Home Resource Manager** — <a href="https://saacostam.github.io/home-resource-manager">Demo</a> · <a href="https://github.com/saacostam/home-resource-manager">Repo</a>  
   🏠 Full-stack web app for structured resource tracking and persistent state management.
 
@@ -23,6 +20,9 @@ Portfolio: https://saacostam.github.io/
 
 - **Tic Tac Toe (Real-time Multiplayer Web App)** — <a href="https://saacostam.github.io/tic-tac-toe">Demo</a> · <a href="https://github.com/saacostam/tic-tac-toe">Repo</a>  
   ❌ Multiplayer web app with synchronized game state and session-based interactions.
+
+- **Portfolio** — <a href="https://saacostam.github.io/">Demo</a> · <a href="https://github.com/saacostam/saacostam.github.io">Repo</a>  
+  🧙‍♂️ Personal portfolio showcasing interactive web applications and experiments.
 
 ---
 
