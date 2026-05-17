@@ -24,6 +24,8 @@ Portfolio: https://saacostam.github.io/
 - **Portfolio** — <a href="https://saacostam.github.io/">Demo</a> · <a href="https://github.com/saacostam/saacostam.github.io">Repo</a>  
   🧙‍♂️ Personal portfolio showcasing interactive web applications and experiments.
 
+- **Monexo (Expense Tracker)** — <a href="https://saacostam.github.io/monexo">Demo</a> · <a href="https://github.com/saacostam/monexo">Repo</a>  
+  📊 A clean, responsive personal finance dashboard designed to track expenses.
 ---
 
 ## Backend & Infrastructure
