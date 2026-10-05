@@ -2,9 +2,11 @@
 ## Full Stack Software Engineer (TypeScript)
 
 Focused on building clean, maintainable, testable web applications, interactive interfaces, and music-driven tools.  
+
 Web Applications · Interactive Systems · Music Tools
 
 Primary stack: TypeScript, full-stack JavaScript ecosystems.
+
 Currently learning: Python backend-end ecosystem.
 
 Portfolio: https://saacostam.github.io/
