@@ -33,10 +33,15 @@ Portfolio: https://saacostam.github.io/
 
 ## Backend & Infrastructure
 
+#### TypeScript: Node
 - **saacostam API** — <a href="https://github.com/saacostam/saacostam-api">Repo</a>  
   🤖 Central backend containing shared API services and infrastructure used across multiple projects.  
   Node.js + TypeScript based, focused on reusable backend modules, authentication patterns, and service architecture.  
   No public demo (infrastructure-only repository).
+
+#### Python (Learning Projects)
+- **My Py Api** - <a href="https://github.com/saacostam/my-py-api">Repo</a>
+  🐍 Api for learning (and eventually developing apps with) python in the back-end
 
 ---
 
@@ -65,8 +70,4 @@ Portfolio: https://saacostam.github.io/
 - **Lalu (Spotify Clone)** — <a href="https://saacostam.github.io/lalu/#/">Demo</a> · <a href="https://github.com/saacostam/lalu">Repo</a>  
   🎧 Music streaming UI (no BE integration) focusing on playback state, auth flows, and media interactions.
 
----
 
-### Python (Learning Projects)
-- **My Py Api** - <a href="https://github.com/saacostam/my-py-api">Repo</a>
-  🐍 Api for learning (and eventually developing apps with) python in the back-end
