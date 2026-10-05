@@ -29,6 +29,9 @@ Portfolio: https://saacostam.github.io/
 
 - **Monexo (Expense Tracker)** — <a href="https://saacostam.github.io/monexo">Demo</a> · <a href="https://github.com/saacostam/monexo">Repo</a>  
   📊 A clean, responsive personal finance dashboard designed to track expenses.
+
+- **BingoKit** — <a href="https://saacostam.github.io/bingo-tracking">Demo</a> · <a href="https://github.com/saacostam/bingo-tracking">Repo</a>  
+  🔢 A simple app for tracking bingo games with multiple boards. Create games, add and manage bingo boards, and keep track of plays and called numbers in one place.
 ---
 
 ## Backend & Infrastructure
