@@ -4,6 +4,8 @@
 Focused on building clean, maintainable, testable web applications, interactive interfaces, and music-driven tools.  
 Primary stack: TypeScript, full-stack JavaScript ecosystems.
 
+Currently learning: Python backend-end ecosystem.
+
 Web Applications · Interactive Systems · Music Tools
 
 Portfolio: https://saacostam.github.io/
@@ -61,3 +63,9 @@ Portfolio: https://saacostam.github.io/
 
 - **Lalu (Spotify Clone)** — <a href="https://saacostam.github.io/lalu/#/">Demo</a> · <a href="https://github.com/saacostam/lalu">Repo</a>  
   🎧 Music streaming UI (no BE integration) focusing on playback state, auth flows, and media interactions.
+
+---
+
+### Python (Learning Projects)
+- **My Py Api** - <a href="https://github.com/saacostam/my-py-api">Repo</a>
+  🐍 Api for learning (and eventually developing apps with) python in the back-end
