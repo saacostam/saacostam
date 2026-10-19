@@ -5,11 +5,9 @@ Focused on building clean, maintainable, testable web applications, interactive 
 
 Web Applications · Interactive Systems · Music Tools
 
-Primary stack: TypeScript, full-stack JavaScript ecosystems.
+Primary stack: TypeScript, full-stack JavaScript ecosystems. Currently learning: Python backend-end ecosystem.
 
-Currently learning: Python backend-end ecosystem.
-
-Portfolio: https://saacostam.github.io/
+Portfolio: <a href="https://saacostam.github.io/">https://saacostam.github.io/</a>
 
 ---
 
