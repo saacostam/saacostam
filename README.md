@@ -56,6 +56,16 @@ Portfolio: <a href="https://saacostam.github.io/">https://saacostam.github.io/</
 
 ---
 
+## Frontend
+
+- **Web Dev Challenges** — <a href="https://saacostam.github.io/web-dev-challenges/">Demo</a> · <a href="https://github.com/saacostam/web-dev-challenges">Repo</a>  
+  ⚛️ A personal compendium of small projects and challenges that I’ve built to explore and deepen my understanding of web dev
+
+- **Lalu (Spotify Clone)** — <a href="https://saacostam.github.io/lalu/#/">Demo</a> · <a href="https://github.com/saacostam/lalu">Repo</a>  
+  🎧 Music streaming UI (no BE integration) focusing on playback state, auth flows, and media interactions.
+
+---
+
 ## 3D / Games
 
 - **3D Crossy Road Clone** — <a href="https://saacostam.github.io/3d-crossy-road/#/">Demo</a> · <a href="https://github.com/saacostam/3d-crossy-road">Repo</a>  
@@ -63,12 +73,5 @@ Portfolio: <a href="https://saacostam.github.io/">https://saacostam.github.io/</
 
 - **3D Tower Defense** — <a href="https://saacostam.github.io/3d-tower-defense/">Demo</a> · <a href="https://github.com/saacostam/3d-tower-defense">Repo</a>  
   🗼 3D interactive strategy prototype with object interactions and gameplay logic.
-
----
-
-### Others
-
-- **Lalu (Spotify Clone)** — <a href="https://saacostam.github.io/lalu/#/">Demo</a> · <a href="https://github.com/saacostam/lalu">Repo</a>  
-  🎧 Music streaming UI (no BE integration) focusing on playback state, auth flows, and media interactions.
 
 
